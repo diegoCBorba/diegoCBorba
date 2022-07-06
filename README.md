@@ -1,4 +1,4 @@
-## Olá! Eu sou Diego Cardoso.
+## Olá! Eu sou Diego Cardoso
 
 • 📚 | Engenharia da Computação - IFPB
 
