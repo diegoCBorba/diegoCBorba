@@ -2,7 +2,7 @@
 
 • 📚 | Engenharia da Computação - IFPB
 
-• 📜 | Estudando atualmente C++ (Programação Orientada a Objetos) e me aprofundando em HTML5 e CSS!
+• 📜 | Me aprofundando em HTML5 e CSS!
 
 <div align="center">
   <a href="https://github.com/diegoCBorba">
