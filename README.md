@@ -7,6 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<div align="center"> 
+  <br>
+  <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:diegocardosobsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
