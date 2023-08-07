@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Studying+Computer+Engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoCBorba&show_icons=true&count_private=true&hide_border=true&title_color=C79B65&icon_color=C79B65&text_color=c9d1d9&bg_color=0d1117" alt="Diego Cardoso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoCBorba&show_icons=true&count_private=true&hide_border=true&title_color=C79B65&icon_color=C79B65&text_color=D1C7B8&bg_color=0d1117" alt="Diego Cardoso github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=D1C7B8&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-C79B65?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:diegocardosobsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
