@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Studying+Computer+Engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoCBorba&show_icons=true&count_private=true&hide_border=true&title_color=C79B65&icon_color=C79B65&text_color=D1C7B8&bg_color=0d1117" alt="Diego Cardoso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=D1C7B8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoCBorba&show_icons=true&count_private=true&hide_border=true&title_color=C79B65&icon_color=C79B65&text_color=D1C7B8&bg_color=0d1117" alt="Diego Cardoso github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=D1C7B8&bg_color=0d1117&hide=CMake,jupyter%20notebook" />
 </div>
 
 <div align="center"> 
