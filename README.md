@@ -30,9 +30,8 @@
 
 
 ### Studying in this moment:
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-<!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;-->
+![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
