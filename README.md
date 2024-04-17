@@ -12,6 +12,7 @@
   <br>
   <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-C79B65?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:diegocardosobsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://diegocardoso.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C79B65.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
 </div>
 
 
