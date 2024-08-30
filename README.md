@@ -15,24 +15,41 @@
   <a href="https://diegocardoso.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C79B65.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
 </div>
 
+<h3 align="center">Daily Used:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%23007ACC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=white&color=0D1117&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+<h3 align="center">Others skills:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=0D1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<h3 align="center">Studying in this moment:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 
-### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
