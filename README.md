@@ -1,4 +1,3 @@
-![banner-p](https://github.com/diegoCBorba/diegoCBorba/assets/90847079/0f66ee12-65d6-4f92-a9cc-82973dc89265)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C79B65&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Studying+Computer+Engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -55,5 +54,10 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{diegoCBorba}/count.svg" /></p> 
 <br></div>
-  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C79B65&height=120&section=footer"/>
+
+<div align="center">
+  <img width="100%" src="https://github.com/diegoCBorba/diegoCBorba/assets/90847079/0f66ee12-65d6-4f92-a9cc-82973dc89265" alt="banner-p"/>
+</div>
+
