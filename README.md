@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
 <h3 align="center">Studying in this moment:</h3>
@@ -47,9 +48,6 @@
   <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
-
-
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
