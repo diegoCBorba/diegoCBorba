@@ -45,6 +45,7 @@
 <h3 align="center">Studying in this moment:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
 
