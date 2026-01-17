@@ -2,16 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Studying+Computer+Engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoCBorba&show_icons=true&count_private=true&hide_border=true&title_color=C79B65&icon_color=C79B65&text_color=D1C7B8&bg_color=0d1117" alt="Diego Cardoso github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCBorba&layout=compact&hide_border=true&title_color=C79B65&text_color=D1C7B8&bg_color=0d1117&hide=CMake,jupyter%20notebook" />
-</div>
-
 <div align="center"> 
   <br>
   <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-C79B65?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:diegocardosobsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://diegocardoso.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C79B65.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
 </div>
 
 <h3 align="center">Daily Used:</h3>
@@ -49,14 +43,4 @@
   <img src="https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diegoCBorba}/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C79B65&height=120&section=footer"/>
-
-<div align="center">
-  <img width="100%" src="https://github.com/diegoCBorba/diegoCBorba/assets/90847079/0f66ee12-65d6-4f92-a9cc-82973dc89265" alt="banner-p"/>
-</div>
-
