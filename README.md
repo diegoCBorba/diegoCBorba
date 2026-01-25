@@ -1,46 +1,56 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C79B65&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Studying+Computer+Engineering+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0BEA9&size=35&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Computer+Engineering+Student;Turning+data+into+insights;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
   <br>
-  <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-C79B65?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:diegocardosobsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-cardoso-15a624220" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-C79B65?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:diegocardosobsantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
-<h3 align="center">Daily Used:</h3>
+---
+
+### 📊 About me
+🎓 Computer Engineering student at IFPB  
+📈 Focused on **Data Analysis**, **Business Intelligence** and **Data-driven decision making**  
+💡 Experience with data extraction, analysis and visualization 
+🧠 Strong analytical thinking with a development background
+
+---
+
+### Data & Analytics Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%23007ACC" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/power%20bi-black?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/excel-black?style=for-the-badge" />
 </p>
 
-<h3 align="center">Tools:</h3>
+---
+
+### Tools & Dev Background
 <p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub" />
-  <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
-<h3 align="center">Others skills:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-</p>
+---
 
-<h3 align="center">Studying in this moment:</h3>
+### Currently studying
 <p align="center">
-  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/statistics-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/data%20modeling-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/etl-black?style=for-the-badge" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C79B65&height=120&section=footer"/>
