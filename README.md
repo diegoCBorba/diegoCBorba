@@ -10,6 +10,9 @@
   <a href="mailto:diegocardosobsantos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-C79B65?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://diegocardoso.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-C79B65.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
