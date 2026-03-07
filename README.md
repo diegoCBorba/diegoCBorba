@@ -13,6 +13,9 @@
   <a href="https://diegocardoso.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-C79B65.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank">
   </a>
+  <a href="https://medium.com/@diegocardosobsantos" target="_blank">
+    <img src="https://img.shields.io/badge/blog-C79B65.svg?style=for-the-badge&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
