@@ -21,7 +21,7 @@
 ---
 
 ### 📊 About me
-🎓 Computer Engineering student at IFPB  
+🎓 Computer Engineering
 📈 Focused on **Data Analysis**, **Business Intelligence** and **Data-driven decision making**  
 💡 Experience with data extraction, analysis and visualization 
 🧠 Strong analytical thinking with a development background
